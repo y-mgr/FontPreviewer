@@ -1,2 +1,2 @@
 # FontPreviewer
-![Main Window](wiki/images/FontPreviewer.png)
+![Main Window](../../wiki/images/FontPreviewer.png)

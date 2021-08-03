@@ -1,2 +1,2 @@
 # FontPreviewer
-![Main Window](../../wiki/images/FontPreviewer.png)
+![Main Window](https://y-mgr.github.io/FontPreviewer/FontPreviewer.png)
